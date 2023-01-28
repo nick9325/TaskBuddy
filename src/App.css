@@ -17,7 +17,7 @@ body {
 }
 
 .cont-border{
-  margin: 50px 200px;
+  margin: 50px 50px;
   border-image: linear-gradient(#c9d0c7, #4c4c8a) 30;
   border-width: 2px;
   border-style: solid;
